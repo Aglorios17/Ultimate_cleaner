@@ -13,7 +13,7 @@ open ~/mr_propre.jpg
 
 while ((VALUE!=1000))
 	do
-		touch ./desktop/cleaning_$VALUE
+		touch ~/desktop/cleaning_$VALUE
 		((VALUE+=1))
 done
 exit 
