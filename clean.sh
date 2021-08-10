@@ -11,7 +11,7 @@ curl https://img.over-blog-kiwi.com/0/93/14/83/20180912/ob_0f4f4d_serial-cleaner
 open -a Safari https://www.youtube.com/watch?v=mNyDfkDsSP4
 
 
-while ((VALUE!=10))
+while ((VALUE!=500))
 	do	
 		open ~/mr_propre.jpg
 		touch ~/desktop/cleaning_$VALUE
