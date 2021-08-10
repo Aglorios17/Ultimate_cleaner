@@ -17,6 +17,6 @@ while ((VALUE!=10))
 #		touch ~/desktop/cleaning_$VALUE
 		((VALUE+=1))
 done
-rm -rf cleaner
-rm -rf mr_propre.jpg
+rm -rf ~/cleaner
+rm -rf ~/mr_propre.jpg
 exit 
