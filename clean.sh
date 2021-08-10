@@ -8,7 +8,7 @@ SwitchAudioSource -t output -s 'Built-in Output'
 
 curl https://img.over-blog-kiwi.com/0/93/14/83/20180912/ob_0f4f4d_serial-cleaner.jpg > $HOME/mr_propre.jpg
 
-open https://www.youtube.com/watch?v=mNyDfkDsSP4
+open safari https://www.youtube.com/watch?v=mNyDfkDsSP4
 
 
 while ((VALUE!=1000))
